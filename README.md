@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![harry-wang-projects's GitHub | Languages Over Time](https://stats.quine.sh/harry-wang-projects/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harry-wang-projects)
+
 <!--
 **harry-wang-projects/harry-wang-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
