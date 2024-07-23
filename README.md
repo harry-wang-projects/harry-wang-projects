@@ -5,7 +5,8 @@ I am a high school student passionate about coding. I create websites and apps.
 - 🌱 I’m currently learning React, Next.js, Langchain, and Firebase 
 - 📫 How to reach me: wa6402@gmail.com or https://www.linkedin.com/in/harry-wang-573ba9270/
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/harry-wang-projects?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harry-wang-projects&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **harry-wang-projects/harry-wang-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
